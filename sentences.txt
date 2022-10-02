@@ -1,0 +1,1 @@
+I added sentences to my README for git training.
